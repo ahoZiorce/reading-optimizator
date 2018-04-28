@@ -1,0 +1,11 @@
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\bin\Release\ReadingOptimizator.exe.config
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\bin\Release\ReadingOptimizator.exe
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\bin\Release\ReadingOptimizator.pdb
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\obj\Release\ReadingOptimizator.Form1.resources
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\obj\Release\ReadingOptimizator.Form2.resources
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\obj\Release\ReadingOptimizator.Form3.resources
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\obj\Release\ReadingOptimizator.Properties.Resources.resources
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\obj\Release\ReadingOptimizator.csproj.GenerateResource.Cache
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\obj\Release\ReadingOptimizator.exe
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\obj\Release\ReadingOptimizator.pdb
+C:\Users\aho\Documents\Visual Studio 2017\Projects\ReadingOptimizator\ReadingOptimizator\obj\Release\ReadingOptimizator.csprojResolveAssemblyReference.cache
